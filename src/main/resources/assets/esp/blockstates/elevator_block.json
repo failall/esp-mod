@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "esp:block/elevator_block"
+    }
+  }
+}
